@@ -3,7 +3,7 @@
 #qx规则
 /*
 
-^http://aliyun\.example\.com url script-echo-response https://raw.githubusercontent.com/zxsaqc/qx/fileball-aliyun.js
+^http://aliyun\.example\.com url script-echo-responsehttps://raw.githubusercontent.com/zxsaqc/qx/master/fileball-aliyun.js
 
 
 */
