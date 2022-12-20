@@ -1,3 +1,0 @@
-#line及linetv
-IP-CIDR,125.209.222.59/32
-DOMAIN-SUFFIX,linetv.tw
