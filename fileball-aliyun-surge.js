@@ -1,5 +1,5 @@
 #!name=Fileball 阿里云挂载
-#!desc= 原作者Chosen One 支持1.2.8
+#!desc= 支持1.2.8
 
 
 //食用方法1-Alist扫码获取
